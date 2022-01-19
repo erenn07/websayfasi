@@ -1,0 +1,123 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+	<link rel="stylesheet" href="style.css">
+	<link rel="stylesheet" type="text/css" href="lightbox.css">
+
+
+    <title>Keskin Hotel</title>
+  </head>
+  <body>
+    
+	<div class="container">
+	  <div class="row">
+		<div class="col">
+			<nav class="navbar navbar-expand-lg navbar-light bg-light">
+			  <div class="container-fluid">
+			  <img class="resim1"src="Anasayfa/keskinhotel.jpg">
+				<a class="navbar-brand" href="index.html">Keskin Hotel</a>
+				<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+				  <span class="navbar-toggler-icon"></span>
+				</button>
+				<div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+				  <div class="navbar-nav">
+					<a class="nav-link active" aria-current="page" href="index.html">Anasayfa</a>
+					<a class="nav-link" href="hakkimizda.html">Hakkımızda</a>
+					<a class="nav-link" href="odalar.html">Odalar</a>
+					<a class="nav-link" href="galeri.html">Galeri</a>
+					<a class="nav-link" href="iletisim.html">İletişim</a>
+					
+				  </div>
+				</div>
+			  </div>
+			</nav>
+		</div>
+	  </div>
+	  
+	  	   <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+
+<div class="container">
+    <ol class="breadcrumb breadcrumb-arrow">
+		<li><a href="index.html">Ana Sayfa</a></li>
+		<li class="active"><span>Galeri</span></li>
+	</ol>
+</div>
+
+<div class="container">
+    <div class="row">
+		<div class="col-md-12">
+                <div id="Carousel" class="carousel slide">
+                 
+             
+                 
+                <!-- Carousel -->
+                <div class="carousel-inner">
+                    
+                <div class="item active">
+                	<div class="row">
+                	  <div class="col-md-3"><a href="Galeri/4b66dae0.jpg" class="thumbnail"><img src="Galeri/4b66dae0.jpg" style="max-width:100%;"></a></div> 	
+                	  <div class="col-md-3"><a href="Galeri/25a33c7a.jpg" class="thumbnail"><img src="Galeri/25a33c7a.jpg"  style="max-width:100%;"></a></div>	
+                	  <div class="col-md-3"><a href="Galeri/65feec40.jpg" class="thumbnail"><img src="Galeri/65feec40.jpg"  style="max-width:100%;"></a></div>
+                	  <div class="col-md-3"><a href="Galeri/33166e56.jpg" class="thumbnail"><img src="Galeri/33166e56.jpg"  style="max-width:100%;"></a></div>
+                	</div>
+                </div> <br> <br>
+                 
+                <div class="item">
+                	<div class="row">
+                		<div class="col-md-3"><a href="Galeri/35934cf3.jpg" class="thumbnail"><img src="Galeri/35934cf3.jpg" alt="Image" style="max-width:100%;"></a></div>
+                		<div class="col-md-3"><a href="Galeri/73150b0b.jpg" class="thumbnail"><img src="Galeri/73150b0b.jpg" alt="Image" style="max-width:100%;"></a></div>
+                		<div class="col-md-3"><a href="Galeri/b2a58e51.jpg" class="thumbnail"><img src="Galeri/b2a58e51.jpg" alt="Image" style="max-width:100%;"></a></div>
+                		<div class="col-md-3"><a href="Galeri/c1e65e23.jpg" class="thumbnail"><img src="Galeri/c1e65e23.jpg" alt="Image" style="max-width:100%;"></a></div>
+                		
+                	</div>
+                </div> <br> <br>
+                 
+                <div class="item">
+                	<div class="row">
+                		<div class="col-md-3"><a href="Galeri/c57907f1.jpg" class="thumbnail"><img src="Galeri/c57907f1.jpg" alt="Image" style="max-width:100%;"></a></div>
+                		<div class="col-md-3"><a href="Galeri/ce61140f.jpg" class="thumbnail"><img src="Galeri/ce61140f.jpg" alt="Image" style="max-width:100%;"></a></div>
+                		<div class="col-md-3"><a href="Galeri/dc003a38.jpg" class="thumbnail"><img src="Galeri/dc003a38.jpg" alt="Image" style="max-width:100%;"></a></div>
+                		<div class="col-md-3"><a href="Galeri/c170000f.jpg" class="thumbnail"><img src="Galeri/c170000f.jpg" alt="Image" style="max-width:100%;"></a></div>
+                		
+                	</div>
+                </div>
+                 
+               
+		</div>
+	</div>
+</div>
+
+	  <div class="row">
+	  <footer class="py-3 my-4">
+    <ul class="nav justify-content-center border-bottom pb-3 mb-3">
+      <li class="nav-item"><a href="index.html" class="nav-link px-2 text-muted">Anasayfa</a></li>
+      <li class="nav-item"><a href="hakkimizda.html" class="nav-link px-2 text-muted">Hakkımızda</a></li>
+      <li class="nav-item"><a href="odalar.html" class="nav-link px-2 text-muted">Odalar</a></li>
+      <li class="nav-item"><a href="galeri.html" class="nav-link px-2 text-muted">Galeri</a></li>
+      <li class="nav-item"><a href="iletisim.html" class="nav-link px-2 text-muted">İletişim</a></li>
+    </ul>
+    <p class="text-center text-muted">Copyright © 2021 Tüm Hakları Saklıdır.
+</p>
+  </footer>
+	  
+	  
+		</div>
+	  </div>
+	</div>
+    
+   
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+<script>
+$(document).ready(function() {
+    $('#Carousel').carousel({
+        interval: 5000
+    })
+});
+</script>
+    
+  </body>
+</html>
